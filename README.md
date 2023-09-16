@@ -14,4 +14,4 @@ WEBSIDE EMAIL & PASSWORD HERE
 2. pass : 1234567
 
 
-LIVE LINK:
+LIVE LINK: https://eloquent-llama-71aea5.netlify.app
